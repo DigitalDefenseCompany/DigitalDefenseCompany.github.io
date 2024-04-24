@@ -13,16 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: L'Ami du peuple
-email: jcoenep@hotmail.com
+title: THE DIGITAL DEFENSE COMPANY
+email: saurabhchalke@gmail.com
 description: >
-  Journal politique impartial, <br>
-  Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
-  du Moniteur et du Plan de Constitution, etc.
+  Building in the Open and Launching Soon! <br>
+  Follow us on Github for updates<br><a target="_blank" href="https://github.com/DigitalDefenseCompany">@DigitalDefenseCompany</a> <br>
 tagline: vitam impendere vero
 location: Versailles
 date: true
-baseurl: "/marat" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://johncoene.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: Jean-Paul Marat
 google_analytics: UA-101394056-1
